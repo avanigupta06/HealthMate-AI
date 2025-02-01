@@ -18,7 +18,7 @@ Uses state-of-the-art ML models to ensure accurate disease predictions.
 Provides personalized recommendations, including:
 Disease,
 Description of disease,
-Precatuions,
+Precautions,
 Top 5 medicines,
 Workout routines,
 and Diets
