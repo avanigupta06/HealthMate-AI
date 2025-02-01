@@ -21,7 +21,7 @@ Description of disease,
 Precatuions,
 Top 5 medicines,
 Workout routines,
-and Deits
+and Diets
 
 ## 5. Flask App Integration
 
