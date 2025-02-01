@@ -16,12 +16,12 @@ Uses state-of-the-art ML models to ensure accurate disease predictions.
 ## 4. Tailored Recommendations
 
 Provides personalized recommendations, including:
-Disease
-Description of disease
-Precatuions
-Top 5 medicines
-Workout routines
-Deits
+Disease,
+Description of disease,
+Precatuions,
+Top 5 medicines,
+Workout routines,
+and Deits
 
 ## 5. Flask App Integration
 
